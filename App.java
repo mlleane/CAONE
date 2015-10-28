@@ -1,5 +1,5 @@
 //package com.bsu;
-
+//added 2nd comment line to file under branch feature2
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
