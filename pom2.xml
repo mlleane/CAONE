@@ -42,29 +42,6 @@
     </plugin>
   </plugins>
 </build>
-
-<!-- config added to setup change log plugin -->
-
-<reporting>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-changelog-plugin</artifactId>
-        <version>2.3</version>
-      </plugin>
-     </plugins>
-  </reporting>
-
-
-<scm>
-    <url>https://github.com/mlleane/CAONE</url>
-    <connection>scm:git:ssh://github.com/mlleane/CAONE.git</connection>
-    <developerConnection>scm:git:ssh://github.com/mlleane/CAONE.git</developerConnection>
-</scm>
-
-
-
-
   
   
 </project>
