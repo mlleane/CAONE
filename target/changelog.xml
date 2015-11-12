@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <changelog>
   
-<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20151013 15:07:03 BST" end="20151113 14:07:03 GMT">
+<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20151013 15:11:58 BST" end="20151113 14:11:58 GMT">
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2015-11-12</date>
+		<time pattern="HH:mm:ss">14:09:22</time>
+		<author><![CDATA[MLeane <michael.leane@students.ittralee.ie>]]></author>
+		<file>
+			<action>modified</action>
+			<name>NewTextFile.txt</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/ca1-1.0-SNAPSHOT.jar</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/changelog.xml</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/maven-archiver/pom.properties</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/site/changelog.html</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/site/file-activity.html</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/surefire-reports/TEST-ittralee.ie.AppTest.xml</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/surefire-reports/ittralee.ie.AppTest.txt</name>
+			<revision>8ffc48f487379a90ef3074dcd9295e49bf7e53ed</revision>
+		</file>
+		<msg><![CDATA[another commit]]></msg>
+	</changelog-entry>
 	<changelog-entry>
 		<date pattern="yyyy-MM-dd">2015-11-12</date>
 		<time pattern="HH:mm:ss">13:53:54</time>
