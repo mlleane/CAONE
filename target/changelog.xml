@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <changelog>
   
-<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20151013 15:11:58 BST" end="20151113 14:11:58 GMT">
+<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20151016 12:16:03 BST" end="20151116 11:16:03 GMT">
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2015-11-12</date>
+		<time pattern="HH:mm:ss">14:14:04</time>
+		<author><![CDATA[MLeane <michael.leane@students.ittralee.ie>]]></author>
+		<file>
+			<action>modified</action>
+			<name>NewTextFile.txt</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/ca1-1.0-SNAPSHOT.jar</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/changelog.xml</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/classes/ittralee/ie/App.class</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/maven-archiver/pom.properties</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/site/changelog.html</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>modified</action>
+			<name>target/site/file-activity.html</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/surefire-reports/TEST-ittralee.ie.AppTest.xml</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/surefire-reports/ittralee.ie.AppTest.txt</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<file>
+			<action>deleted</action>
+			<name>target/test-classes/ittralee/ie/AppTest.class</name>
+			<revision>e59dd61064cc19a7400ab9e301d998118a1bc07c</revision>
+		</file>
+		<msg><![CDATA[yet another commit]]></msg>
+	</changelog-entry>
 	<changelog-entry>
 		<date pattern="yyyy-MM-dd">2015-11-12</date>
 		<time pattern="HH:mm:ss">14:09:22</time>

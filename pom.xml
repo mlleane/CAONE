@@ -62,6 +62,21 @@
     <developerConnection>scm:git:ssh://github.com/mlleane/CAONE.git</developerConnection>
 </scm>
 
+<!-- added developer informatiion so it would be included in a developer report -->
+	<developers>
+		<developer>
+			<id>michael.leane@students.ittralee.ie</id>
+			<name>Mleane</name>
+			<email>michael.leane@students.ittralee.ie</email>
+			<organization>From Beyond</organization>
+			<organizationUrl>N/A</organizationUrl>
+			<roles>
+				<role>lead developer</role>
+			</roles>
+			<timezone>-8</timezone>
+			<url>N/A</url>
+		</developer>
+	</developers>
 
 
 
